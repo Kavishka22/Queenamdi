@@ -25,8 +25,12 @@
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
-### Deploy OLD v3 Queen Amdi Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/K-aviya/Queenamdi)
+## DEPLOY
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/K-aviya/Queenamdi)
+
+
+
 </div>
 
 ----
@@ -97,8 +101,6 @@ QR Code generator and full instructions available there.
 	<a href="https://www.amdaniwasa.com">
 <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
 </div>
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
 ## Queen Amdi Team
 
